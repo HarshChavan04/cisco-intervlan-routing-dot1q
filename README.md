@@ -7,6 +7,12 @@ This repository features a **Cisco Packet Tracer** network topology demonstratin
 *   `topology.png` - Visual map layout of the network infrastructure.
 *   `ping-verification.png` - Screenshot proof of successful end-to-end communication tests.
 
+### 🖼️ Topology & Verification Previews
+![Network Topology](topology.png)
+
+![Ping Verification](ping-verification.png)
+
+
 ## 🌐 Topology Overview
 The network is segmented into three distinct Virtual Local Area Networks (VLANs) utilizing `/26` subnets:
 *   **VLAN 10:** `10.0.0.0/26` (Hosts: PC1, PC0, PC5, PC6)
