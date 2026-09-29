@@ -7,10 +7,8 @@ This repository features a **Cisco Packet Tracer** network topology demonstratin
 *   `topology.png` - Visual map layout of the network infrastructure.
 *   `ping-verification.png` - Screenshot proof of successful end-to-end communication tests.
 
-### 🖼️ Topology & Verification Previews
+### 🖼️ Topology Previews
 ![Network Topology](topology.png)
-
-![Ping Verification](ping-verification.png)
 
 
 ## 🌐 Topology Overview
@@ -28,3 +26,5 @@ The network is segmented into three distinct Virtual Local Area Networks (VLANs)
 All configurations were verified using ICMP ping tests from the command line, confirming successful inter-VLAN routing communication:
 *   **VLAN 10 Gateway (10.0.0.1):** 0% loss;
 
+ ## Verification Preview
+ ![Ping Verification](ping-verification.png)
